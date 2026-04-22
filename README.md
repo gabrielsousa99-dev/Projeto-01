@@ -2,6 +2,10 @@
 
 <br>
 
+<p algin="center">
+    <img alt="Projeto agregador" src="./assets/projeto.jpg" width="100%">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
